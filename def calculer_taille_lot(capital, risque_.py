@@ -54,9 +54,9 @@ print(f"La valeur d'un pip pour {pair} avec {taille_lot} unités est de {valeur_
 
 
 # Paramètres de l'exemple
-capital = 100000  # Capital total en euros
-risque_pourcentage = 0.01  # 1% de risque
-stop_loss_pips = 30  # Stop-loss à 50 pips
+capital = 397  # Capital total en euros
+risque_pourcentage = 0.005  # 1% de risque
+stop_loss_pips = 10  # Stop-loss à 50 pips
 valeur_par_pip = valeur_pip  # Valeur d'un pip pour 1 lot (EUR/USD)
 
 # Calcul
